@@ -1,4 +1,4 @@
-# typing-game
+# Typing Game
 
 A typing game that measures your typing speed and accuracy with levels
 
