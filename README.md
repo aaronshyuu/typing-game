@@ -1,6 +1,6 @@
 # Typing Game
 
-A typing game that measures your typing speed and accuracy with levels
+A typing game that measures your typing speed and accuracy with increasing difficulty
 
 ## Knowledge Application
 
